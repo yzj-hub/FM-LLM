@@ -69,4 +69,4 @@ python predict.py
 
 ### Note:
 
-The lora-model file contains the fine-tuned model from this experiment.
+The LoRA-model file contains the fine-tuned model from this experiment.
